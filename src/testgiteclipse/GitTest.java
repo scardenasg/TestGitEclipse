@@ -9,6 +9,7 @@ public class GitTest
 	public static void main(String[] args)
 	{
 	    // 1
+		// 2
 		System.out.println("Git is fun, a lot of fun, but complex");
 	}
 
