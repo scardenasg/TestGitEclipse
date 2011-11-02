@@ -10,6 +10,7 @@ public class GitTest
 	{
 	    // 1
 		// 2
+		// 4
 		System.out.println("Git is fun, a lot of fun, but complex");
 	}
 
